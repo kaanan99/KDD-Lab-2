@@ -21,3 +21,7 @@ The dictionary ids_to_names must be provided by the user. A specific function to
 
 ## File Paths
 All file paths that were used by the programmers are in the code by default. There is a line commented out under these lines which can be uncommented and will allow the files to be read assuming that they are in the home directory.
+<br>
+## Potential Errors
+Type of id in ids_to_names does not match type in dataset itself --> ids in dict should be strings not integers. <br>
+Key not found error: itemset not sorted somehow

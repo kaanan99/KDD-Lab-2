@@ -5,7 +5,7 @@ By Kaanan Kharwa and Laura McGann
 We decided to implement our program using python because it is the langauge that Google Colab uses. Using Google Colab allowed us to work on the code at the same time.
 <br>
 ## Program Description
-KDD_Lab2.ipynb is the only source file in our zip and contains all the code needed to run Apriori's Algorithm and find the skyline and associations.
+KDD_Lab_2.ipynb is the only source file in our zip and contains all the code needed to run Apriori's Algorithm and find the skyline and associations.
 ## Running the code 
 The way to run the code is through the function outer_find_associations.
 
